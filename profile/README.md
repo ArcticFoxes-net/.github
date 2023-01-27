@@ -1,4 +1,4 @@
-ArcticFoxes.net is a group of self hosted and federated services run by [Tommy Tran](https://tommytran.io).
+ArcticFoxes.net is a group of self hosted and federated services run by [Tommy Tran](https://tommytran.io). [randomhydrosol](https://github.com/randomhydrosol) is an administator and will help out in case of an emergency.
 
 **Rules**: Do not post illegal materials, spam, harrass other people, or plan cyber attacks.
 
